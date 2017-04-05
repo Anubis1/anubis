@@ -1,0 +1,137 @@
+img.bg {
+        min-height: 100%;
+        min-width: 1024px;
+        width: 100%;
+        height: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+}
+@media screen and (max-width: 1024px) { 
+        img.bg {
+                left: 50%;
+                margin-left: -512px;  
+        }}
+		
+		
+#admin_site{
+  position:absolute;
+  z-index:2;
+ background:#eee;
+ height: 17%;
+ width: 12.9%;
+ margin-left:42%;
+ margin-top:20%;
+}
+#admin_site input,button{
+ height: 16%;
+ width: 95%;
+ margin:1px;
+}
+#see{
+position:absolute;
+z-index:4;
+}
+a{
+text-decoration:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mus{
+background:#eee;
+width:20%;
+height:60%;
+position:absolute;
+z-index:22;
+margin-left:7%;
+
+}
+
+
+
+#muss{
+margin-left:35%;
+background:#eee;
+width:20%;
+height:60%;
+position:absolute;
+z-index:22;
+
+
+}
+
+#bin{
+margin: 1px;
+height:24%;
+max-height:24%;
+width: 97.3%;
+max-width: 97.3%;
+}
+
+#musss{
+margin-left:63%;
+background:#eee;
+width:20%;
+height:60%;
+position:absolute;
+z-index:22;
+
+
+}
+
+
+#mus2ss{
+margin-left:2%;
+margin-top:30%;
+background:#eee;
+width:90%;
+height:20%;
+position:absolute;
+z-index:22;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
