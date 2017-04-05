@@ -1,5 +1,4 @@
 <?
-
-echo "ionel";
+echo "DTSP INFOrmations";
 
 ?>
